@@ -1,0 +1,20 @@
+h1{
+    font-size: 12em;
+}
+p{
+   color: rgb(77, 71, 71); 
+    font-style: italic;
+}
+.white{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.hilight{
+    background-color: rgb(224, 131, 9);
+    font-size: 5em;
+    text-shadow:5px 5px rgb(77, 71, 71);
+}
+.black{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
